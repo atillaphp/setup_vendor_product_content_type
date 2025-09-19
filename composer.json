@@ -1,0 +1,9 @@
+{
+    "name": "soganbilisim/setup_vendor_product_content_type",
+    "description": "Recipe to set up vendor product content type for Drupal",
+    "version": "1.0.0",
+    "type": "drupal-recipe",
+    "require": {
+        "drupal/recipe_tracker": "^1"
+    }
+}

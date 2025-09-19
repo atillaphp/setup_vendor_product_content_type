@@ -14,7 +14,7 @@ To use this recipe in your Drupal project:
 
    ```json
    "require": {
-       "soganbilisim/setup_vendor_product_type": "*"
+       "atillaphp/setup_vendor_product_type": "*"
    }
    ```
 
